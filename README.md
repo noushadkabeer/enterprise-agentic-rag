@@ -5,7 +5,7 @@
 [![Vector DB](https://img.shields.io/badge/retrieval-pgvector%20%2B%20BM25-green.svg)](https://github.com/pgvector/pgvector)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
-> **Architect:** [Noushad Kabeer](https://www.linkedin.com/in/noushadkabeer/) — Principal AI Solutions Architect  
+> **Architect:** [Noushad Kabeer](https://www.linkedin.com/in/noushad-kabeer/) — Principal AI Solutions Architect  
 > **Repository:** [github.com/noushadkabeer/enterprise-agentic-rag](https://github.com/noushadkabeer/enterprise-agentic-rag)
 
 A production-grade, state-machine multi-agent framework designed to solve the breakdown of naive RAG pipelines on complex 400+ page enterprise documents (financial filings, insurance policies, legal disclosures, and technical specs).
@@ -143,6 +143,6 @@ python -m src.evals
 
 **Noushad Kabeer**  
 *Principal AI Solutions Architect | Enterprise Multi-Agent Systems & Content Modernization*  
-- 💼 **LinkedIn:** [linkedin.com/in/noushadkabeer](https://www.linkedin.com/in/noushadkabeer/)  
+- 💼 **LinkedIn:** [linkedin.com/in/noushad-kabeer](https://www.linkedin.com/in/noushad-kabeer/)  
 - 🐙 **GitHub:** [github.com/noushadkabeer](https://github.com/noushadkabeer)  
 - 📩 **Email:** noushad.kabeer@yahoo.com
